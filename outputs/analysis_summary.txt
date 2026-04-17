@@ -1,0 +1,21 @@
+STAT72000 Project Analysis Summary
+
+Original dataset path: C:\Users\ISHAQ NASIRU\Downloads\STAT72000_Project\STAT72000-fuel-efficiency\data\raw\cars.csv
+Final cleaned dataset rows: 546
+Final cleaned dataset columns: 12
+
+Generated outputs:
+- Tables saved to: C:\Users\ISHAQ NASIRU\Downloads\STAT72000_Project\STAT72000-fuel-efficiency\outputs\tables
+- Figures saved to: C:\Users\ISHAQ NASIRU\Downloads\STAT72000_Project\STAT72000-fuel-efficiency\outputs\figures
+
+Core analysis completed:
+- Data cleaning
+- Missing data overview
+- Duplicate removal
+- Descriptive statistics
+- Frequency tables
+- Histograms and boxplots
+- Correlation matrix
+- ANOVA / t-test where applicable
+- Chi-square test
+- Regression model

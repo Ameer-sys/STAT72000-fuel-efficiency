@@ -1,0 +1,2 @@
+Test,Dependent Variable,Grouping Variable,F-statistic,P-value
+ANOVA,city_mpg,class,15.519375693096038,3.0216668367900158e-28
